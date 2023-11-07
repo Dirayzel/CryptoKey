@@ -1,0 +1,15 @@
+D:\sharp_projects\CryptoKey\CryptoKey\bin\Debug\CryptoKey.exe.config
+D:\sharp_projects\CryptoKey\CryptoKey\bin\Debug\CryptoKey.exe
+D:\sharp_projects\CryptoKey\CryptoKey\bin\Debug\CryptoKey.pdb
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.csproj.AssemblyReference.cache
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.csproj.SuggestedBindingRedirects.cache
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\MainWindow.g.cs
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\App.g.cs
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey_MarkupCompile.cache
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\MainWindow.baml
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.g.resources
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.Properties.Resources.resources
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.csproj.GenerateResource.cache
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.csproj.CoreCompileInputs.cache
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.exe
+D:\sharp_projects\CryptoKey\CryptoKey\obj\Debug\CryptoKey.pdb
